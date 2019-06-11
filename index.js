@@ -25,6 +25,6 @@ function johnLennonFacts(facts){
   do {
     numVar.push ("I love the Beatles!");
     i++;
-  } while (i <=num );
+  } while (i <= num);
 return numVar;
 }
