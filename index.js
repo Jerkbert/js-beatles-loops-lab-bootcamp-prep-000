@@ -22,9 +22,10 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(num){
   var numArray = [];
   var i = 0;
+  var x = 15;
   do {
     numArray.push ("I love the Beatles!");
     i++;
   } while (i <= num);
-return numArray;
+return x - numArray;
 }
